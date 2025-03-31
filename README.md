@@ -1,6 +1,10 @@
 # CooPre: Cooperative Pretraining for V2X Cooperative Perception
 This is the official implementation of "CooPre: Cooperative Pretraining for V2X Cooperative Perception". In this paper, we present a multi-agent self-supervised learning framwork for V2X cooperative perception, which utilizes the vast amount of unlabeled 3D V2X data to enhance the perception performance. Our study underscores the critical role of well-learned 3D representations as a promising complement to task-specific design optimizations in V2X cooperative perception.
 
+![teaser](assets/coopre_teaser.png)
+
+
+
 ## Release Plan
 - **`2025/04`**: Official Repo Release.
 - **`2025/06`**: Full Codebase Release.
