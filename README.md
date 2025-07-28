@@ -9,8 +9,8 @@ This is the official implementation of IROS 2025 paper "CooPre: Cooperative Pret
 ![teaser](assets/coopre_teaser.png)
 
 ## Release Plan
-- **`2025/04`**: Official Repo Release.
 - **`2025/07`**: Full Codebase Release.
+- **`2025/04`**: Official Repo Release.
 
 ## News
 - **`2025/07`**: CooPre has been accepted to IROS 2025 as oral presentation.
