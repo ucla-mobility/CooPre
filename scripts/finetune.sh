@@ -1,0 +1,1 @@
+python opencood/tools/train.py --hypes_yaml opencood/hypes_yaml/second_intermediate_fusion.yaml --pretrained_model_dir opencood/logs/second_coopre
