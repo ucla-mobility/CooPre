@@ -1,4 +1,4 @@
-name: second_late_fusion_mae_vc
+name: second_late_fusion
 root_dir: '/data/zhihaoz/v2xreal/v2xreal/train'
 validate_dir: '/data/zhihaoz/v2xreal/v2xreal/test'
 dataset_mode: 'vc' #vc, ic, v2v, i2i

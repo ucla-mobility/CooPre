@@ -1,4 +1,4 @@
-name: second_intermediate_fusion_multiagent_bevcontrast_v2v
+name: second_intermediate_fusion
 root_dir: '/data/zhihaoz/v2xreal/v2xreal/train'
 validate_dir: '/data/zhihaoz/v2xreal/v2xreal/test'
 dataset_mode: 'v2v' #vc, ic, v2v, i2i
