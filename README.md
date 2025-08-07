@@ -8,13 +8,14 @@ This is the official implementation of IROS 2025 paper "CooPre: Cooperative Pret
 
 ![teaser](assets/coopre_teaser.png)
 
+## News
+- **`2025/08`**: [TurboTrain](https://github.com/ucla-mobility/TurboTrain) paper has been released! TurboTrain extends CooPre framework to multi-frame spatial-temporal pretraining and has been accepted to ICCV 2025.
+- **`2025/07`**: CooPre has been accepted to IROS 2025 as oral presentation.
+- **`2025/06`**: CooPre has been awarded with **Best Paper Award** at the [CVPR 2025 DriveX Workshop](https://drivex-workshop.github.io/).
+
 ## Release Plan
 - **`2025/07`**: Full Codebase Release.
 - **`2025/04`**: Official Repo Release.
-
-## News
-- **`2025/07`**: CooPre has been accepted to IROS 2025 as oral presentation.
-- **`2025/06`**: CooPre has been awarded with **Best Paper Award** at the [CVPR 2025 DriveX Workshop](https://drivex-workshop.github.io/).
 
 ## Data Download
 Please check [website](https://mobility-lab.seas.ucla.edu/v2x-real/) to download the data. The data is in OPV2V format. 
@@ -74,3 +75,28 @@ If you find this repository useful for your research, please consider giving us 
   year={2024}
 }
 ```
+
+Other useful citations:
+ ```bibtex
+@article{zhou2025turbotrain,
+ title={TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction},
+ author={Zhou, Zewei and Zhao, Seth Z. and Cai, Tianhui and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
+ journal={arXiv preprint arXiv:2508.04682},
+ year={2025}
+}
+
+@article{zhou2024v2xpnp,
+ title={V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction},
+ author={Zhou, Zewei and Xiang, Hao and Zheng, Zhaoliang and Zhao, Seth Z. and Lei, Mingyue and Zhang, Yun and Cai, Tianhui and Liu, Xinyi and Liu, Johnson and Bajji, Maheswari and Xia, Xin and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
+ journal={arXiv preprint arXiv:2412.01812},
+ year={2024}
+}
+
+@article{xiang2024v2xreal,
+  title={V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception},
+  author={Xiang, Hao and Zheng, Zhaoliang and Xia, Xin and Xu, Runsheng and Gao, Letian and Zhou, Zewei and Han, Xu and Ji, Xinkai and Li, Mingxi and Meng, Zonglin and others},
+  journal={arXiv preprint arXiv:2403.16034},
+  year={2024}
+}
+```
+
