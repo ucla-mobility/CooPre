@@ -13,7 +13,7 @@ from opencood.models.sub_modules.base_bev_backbone import BaseBEVBackbone
 
 class SecondCooPre(nn.Module):
     def __init__(self, args):
-        super(SecondMAE, self).__init__()
+        super(SecondCooPre, self).__init__()
         num_class = args['num_class']
         self.batch_size = args['batch_size']
         # mean_vfe
