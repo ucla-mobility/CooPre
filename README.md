@@ -68,35 +68,41 @@ CooPre belongs to the [OpenCDA ecosystem](https://arxiv.org/abs/2301.07325) fami
 ## Citation
 If you find this repository useful for your research, please consider giving us a star 🌟 and citing our paper.
  ```bibtex
-@article{zhao2024coopre,
-  title={CooPre: Cooperative Pretraining for V2X Cooperative Perception},
+@inproceedings{zhao2025coopre,
+  title={Coopre: Cooperative pretraining for v2x cooperative perception},
   author={Zhao, Seth Z and Xiang, Hao and Xu, Chenfeng and Xia, Xin and Zhou, Bolei and Ma, Jiaqi},
-  journal={arXiv preprint arXiv:2408.11241},
-  year={2024}
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={11765--11772},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
 Other useful citations:
  ```bibtex
-@article{zhou2025turbotrain,
- title={TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction},
- author={Zhou, Zewei and Zhao, Seth Z. and Cai, Tianhui and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
- journal={arXiv preprint arXiv:2508.04682},
- year={2025}
+@inproceedings{zhou2025turbotrain,
+  title={TurboTrain: Towards efficient and balanced multi-task learning for multi-agent perception and prediction},
+  author={Zhou, Zewei and Zhao, Seth Z and Cai, Tianhui and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4391--4402},
+  year={2025}
 }
 
-@article{zhou2024v2xpnp,
- title={V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction},
- author={Zhou, Zewei and Xiang, Hao and Zheng, Zhaoliang and Zhao, Seth Z. and Lei, Mingyue and Zhang, Yun and Cai, Tianhui and Liu, Xinyi and Liu, Johnson and Bajji, Maheswari and Xia, Xin and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
- journal={arXiv preprint arXiv:2412.01812},
- year={2024}
+@inproceedings{zhou2025v2xpnp,
+  title={V2xpnp: Vehicle-to-everything spatio-temporal fusion for multi-agent perception and prediction},
+  author={Zhou, Zewei and Xiang, Hao and Zheng, Zhaoliang and Zhao, Seth Z and Lei, Mingyue and Zhang, Yun and Cai, Tianhui and Liu, Xinyi and Liu, Johnson and Bajji, Maheswari and others},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={25399--25409},
+  year={2025}
 }
 
-@article{xiang2024v2xreal,
-  title={V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception},
+@inproceedings{xiang2024v2x,
+  title={V2x-real: a largs-scale dataset for vehicle-to-everything cooperative perception},
   author={Xiang, Hao and Zheng, Zhaoliang and Xia, Xin and Xu, Runsheng and Gao, Letian and Zhou, Zewei and Han, Xu and Ji, Xinkai and Li, Mingxi and Meng, Zonglin and others},
-  journal={arXiv preprint arXiv:2403.16034},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={455--470},
+  year={2024},
+  organization={Springer}
 }
 ```
 
